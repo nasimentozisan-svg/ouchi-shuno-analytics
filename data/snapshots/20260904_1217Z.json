@@ -1,0 +1,109 @@
+{
+  "schema": 2,
+  "account_id": "ouchi-shuno",
+  "run_at": "2026-09-04T12:17:16+00:00",
+  "api_version": "v23.0",
+  "status": {
+    "token_check": "ok",
+    "meta_api_fetch": "ok",
+    "analytics_write": "not_run",
+    "token_refresh": "not_required"
+  },
+  "token": {
+    "valid": true,
+    "type": "PAGE",
+    "expires_at": 0,
+    "expires_label": "never",
+    "scopes": [
+      "pages_show_list",
+      "business_management",
+      "instagram_basic",
+      "instagram_manage_insights",
+      "pages_read_engagement",
+      "public_profile"
+    ],
+    "granular_scopes": [
+      {
+        "scope": "pages_show_list",
+        "target_ids": [
+          "1260572307143968"
+        ]
+      },
+      {
+        "scope": "business_management",
+        "target_ids": [
+          "2310624763079758"
+        ]
+      },
+      {
+        "scope": "instagram_basic",
+        "target_ids": [
+          "17841432149600515"
+        ]
+      },
+      {
+        "scope": "instagram_manage_insights",
+        "target_ids": [
+          "17841432149600515"
+        ]
+      },
+      {
+        "scope": "pages_read_engagement",
+        "target_ids": [
+          "1260572307143968"
+        ]
+      }
+    ],
+    "data_access_expires_at": 1796299745,
+    "data_access_expires_label": "2026-12-03T12:09:05+00:00",
+    "app_id": "1085698424406566",
+    "profile_id": "1260572307143968",
+    "checked_at": "2026-09-04T12:17:17+00:00"
+  },
+  "account": {
+    "profile": {
+      "username": "ouchi.shuno.note",
+      "followers_count": 1,
+      "follows_count": 0,
+      "media_count": 1
+    },
+    "insights": {
+      "reach": 0,
+      "profile_views": 0,
+      "accounts_engaged": 0,
+      "total_interactions": 0,
+      "likes": 0,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "views": 0
+    },
+    "media_returned": 1
+  },
+  "media": [
+    {
+      "id": "17884090977486156",
+      "timestamp": "2026-09-01T15:51:30+0000",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/DcwA7OHJ1wl/",
+      "caption_head": "突っ張るだけで、壁に穴を開けずにできる賃貸クローゼットの壁面収納✨",
+      "insights": {
+        "reach": 106,
+        "likes": 1,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "views": 115
+      },
+      "unavailable": {
+        "profile_visits": "(#100) The Media Insights API does not support the profile_visits, follows metric for this media product type.",
+        "follows": "(#100) The Media Insights API does not support the profile_visits, follows metric for this media product type."
+      }
+    }
+  ],
+  "unavailable_metrics": {
+    "account": {}
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "account_id": "ouchi-shuno",
+  "account_name": "おうち収納ノート",
+  "generated_at": "2026-09-04T12:17:20Z",
+  "run_at": "2026-09-04T12:17:16+00:00",
+  "prev_run_at": null,
+  "kpi": {
+    "followers_count": {
+      "value": 1,
+      "prev": null,
+      "delta": null
+    },
+    "reach": {
+      "value": 0,
+      "prev": null,
+      "delta": null
+    },
+    "profile_views": {
+      "value": 0,
+      "prev": null,
+      "delta": null
+    },
+    "total_interactions": {
+      "value": 0,
+      "prev": null,
+      "delta": null
+    },
+    "saves": {
+      "value": 0,
+      "prev": null,
+      "delta": null
+    },
+    "shares": {
+      "value": 0,
+      "prev": null,
+      "delta": null
+    },
+    "views": {
+      "value": 0,
+      "prev": null,
+      "delta": null
+    }
+  },
+  "follow_conversion_pct": null,
+  "posts_total": 1,
+  "top_posts": [
+    {
+      "id": "17884090977486156",
+      "permalink": "https://www.instagram.com/reel/DcwA7OHJ1wl/",
+      "caption_head": "突っ張るだけで、壁に穴を開けずにできる賃貸クローゼットの壁面収納✨",
+      "metrics": {
+        "reach": 106,
+        "saved": 0,
+        "shares": 0,
+        "likes": 1,
+        "comments": 0,
+        "views": 115
+      }
+    }
+  ],
+  "bottom_posts": [],
+  "unavailable_metrics": {},
+  "health": {
+    "last_run_at": "2026-09-04T12:17:16+00:00",
+    "last_success_at": "2026-09-04T12:17:16+00:00",
+    "meta_api_fetch": "ok",
+    "token_check": "ok",
+    "token_refresh": "not_required",
+    "analytics_write": "ok",
+    "has_error": false,
+    "consecutive_failures": 0,
+    "token_expires_label": "never"
+  }
+}
