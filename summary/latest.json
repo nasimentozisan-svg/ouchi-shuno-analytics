@@ -1,9 +1,9 @@
 {
   "account_id": "ouchi-shuno",
   "account_name": "おうち収納ノート",
-  "generated_at": "2026-09-04T12:28:40Z",
-  "run_at": "2026-09-04T12:28:37+00:00",
-  "prev_run_at": "2026-09-04T12:21:22+00:00",
+  "generated_at": "2026-09-04T12:39:31Z",
+  "run_at": "2026-09-04T12:39:27+00:00",
+  "prev_run_at": "2026-09-04T12:28:37+00:00",
   "kpi": {
     "followers_count": {
       "value": 1,
@@ -12,18 +12,18 @@
     },
     "reach": {
       "value": 106,
-      "prev": 0,
-      "delta": 106
+      "prev": 106,
+      "delta": 0
     },
     "profile_views": {
       "value": 8,
-      "prev": 0,
-      "delta": 8
+      "prev": 8,
+      "delta": 0
     },
     "total_interactions": {
       "value": 1,
-      "prev": 0,
-      "delta": 1
+      "prev": 1,
+      "delta": 0
     },
     "saves": {
       "value": 0,
@@ -37,8 +37,8 @@
     },
     "views": {
       "value": 115,
-      "prev": 0,
-      "delta": 115
+      "prev": 115,
+      "delta": 0
     }
   },
   "follow_conversion_pct": null,
@@ -61,8 +61,8 @@
   "bottom_posts": [],
   "unavailable_metrics": {},
   "health": {
-    "last_run_at": "2026-09-04T12:28:37+00:00",
-    "last_success_at": "2026-09-04T12:28:37+00:00",
+    "last_run_at": "2026-09-04T12:39:27+00:00",
+    "last_success_at": "2026-09-04T12:39:27+00:00",
     "meta_api_fetch": "ok",
     "token_check": "ok",
     "token_refresh": "not_required",
