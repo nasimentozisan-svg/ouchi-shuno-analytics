@@ -1,7 +1,7 @@
 {
   "account_id": "ouchi-shuno",
-  "last_run_at": "2026-09-04T12:17:16+00:00",
-  "last_success_at": "2026-09-04T12:17:16+00:00",
+  "last_run_at": "2026-09-04T12:19:40+00:00",
+  "last_success_at": "2026-09-04T12:19:40+00:00",
   "meta_api_fetch": "ok",
   "token_check": "ok",
   "token_refresh": "not_required",
@@ -10,5 +10,8 @@
   "error": null,
   "consecutive_failures": 0,
   "token_expires_label": "never",
-  "media_returned": 1
+  "media_returned": 1,
+  "data_access_expires_label": "2026-12-03T12:09:05+00:00",
+  "data_access_days_left": 89,
+  "reauth_needed_soon": false
 }
