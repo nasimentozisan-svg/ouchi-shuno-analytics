@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "account_id": "ouchi-shuno",
-  "run_at": "2026-09-28T00:20:45+00:00",
+  "run_at": "2026-10-05T00:29:44+00:00",
   "api_version": "v23.0",
   "status": {
     "token_check": "ok",
@@ -58,7 +58,7 @@
     "data_access_expires_label": "2026-12-03T12:09:05+00:00",
     "app_id": "1085698424406566",
     "profile_id": "1260572307143968",
-    "checked_at": "2026-09-28T00:20:45+00:00"
+    "checked_at": "2026-10-05T00:29:45+00:00"
   },
   "account": {
     "profile": {
@@ -79,7 +79,7 @@
       "views": 0
     },
     "insights_7d": {
-      "reach": 0,
+      "reach": 1,
       "profile_views": 0,
       "accounts_engaged": 0,
       "total_interactions": 0,
@@ -87,7 +87,7 @@
       "comments": 0,
       "saves": 0,
       "shares": 0,
-      "views": 0
+      "views": 1
     },
     "media_returned": 1
   },
@@ -100,13 +100,13 @@
       "permalink": "https://www.instagram.com/reel/DcwA7OHJ1wl/",
       "caption_head": "突っ張るだけで、壁に穴を開けずにできる賃貸クローゼットの壁面収納✨",
       "insights": {
-        "reach": 106,
+        "reach": 107,
         "likes": 1,
         "comments": 0,
         "saved": 0,
         "shares": 0,
         "total_interactions": 1,
-        "views": 115
+        "views": 116
       },
       "unavailable": {
         "profile_visits": "(#100) The Media Insights API does not support the profile_visits, follows metric for this media product type.",
