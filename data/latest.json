@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "account_id": "ouchi-shuno",
-  "run_at": "2026-10-05T00:29:44+00:00",
+  "run_at": "2026-10-12T01:03:37+00:00",
   "api_version": "v23.0",
   "status": {
     "token_check": "ok",
@@ -58,7 +58,7 @@
     "data_access_expires_label": "2026-12-03T12:09:05+00:00",
     "app_id": "1085698424406566",
     "profile_id": "1260572307143968",
-    "checked_at": "2026-10-05T00:29:45+00:00"
+    "checked_at": "2026-10-12T01:03:38+00:00"
   },
   "account": {
     "profile": {
@@ -79,7 +79,7 @@
       "views": 0
     },
     "insights_7d": {
-      "reach": 1,
+      "reach": 0,
       "profile_views": 0,
       "accounts_engaged": 0,
       "total_interactions": 0,
@@ -87,7 +87,7 @@
       "comments": 0,
       "saves": 0,
       "shares": 0,
-      "views": 1
+      "views": 0
     },
     "media_returned": 1
   },
