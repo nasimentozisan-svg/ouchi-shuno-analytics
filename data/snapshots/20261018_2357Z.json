@@ -1,0 +1,16 @@
+{
+  "schema": 2,
+  "account_id": "ouchi-shuno",
+  "run_at": "2026-10-18T23:57:22+00:00",
+  "api_version": "v23.0",
+  "status": {
+    "token_check": "not_run",
+    "meta_api_fetch": "error",
+    "analytics_write": "not_run",
+    "token_refresh": "not_required"
+  },
+  "token": {},
+  "account": {},
+  "media": [],
+  "unavailable_metrics": {}
+}

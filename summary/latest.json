@@ -1,74 +1,60 @@
 {
   "account_id": "ouchi-shuno",
   "account_name": "おうち収納ノート",
-  "generated_at": "2026-10-12T01:03:40Z",
-  "run_at": "2026-10-12T01:03:37+00:00",
-  "prev_run_at": "2026-10-05T00:29:44+00:00",
+  "generated_at": "2026-10-18T23:57:23Z",
+  "run_at": "2026-10-18T23:57:22+00:00",
+  "prev_run_at": "2026-10-12T01:03:37+00:00",
   "kpi": {
     "followers_count": {
-      "value": 1,
+      "value": null,
       "prev": 1,
-      "delta": 0
+      "delta": null
     },
     "reach": {
-      "value": 0,
-      "prev": 1,
-      "delta": -1
+      "value": null,
+      "prev": 0,
+      "delta": null
     },
     "profile_views": {
-      "value": 0,
+      "value": null,
       "prev": 0,
-      "delta": 0
+      "delta": null
     },
     "total_interactions": {
-      "value": 0,
+      "value": null,
       "prev": 0,
-      "delta": 0
+      "delta": null
     },
     "saves": {
-      "value": 0,
+      "value": null,
       "prev": 0,
-      "delta": 0
+      "delta": null
     },
     "shares": {
-      "value": 0,
+      "value": null,
       "prev": 0,
-      "delta": 0
+      "delta": null
     },
     "views": {
-      "value": 0,
-      "prev": 1,
-      "delta": -1
+      "value": null,
+      "prev": 0,
+      "delta": null
     }
   },
   "follow_conversion_pct": null,
-  "posts_total": 1,
-  "top_posts": [
-    {
-      "id": "17884090977486156",
-      "permalink": "https://www.instagram.com/reel/DcwA7OHJ1wl/",
-      "caption_head": "突っ張るだけで、壁に穴を開けずにできる賃貸クローゼットの壁面収納✨",
-      "metrics": {
-        "reach": 107,
-        "saved": 0,
-        "shares": 0,
-        "likes": 1,
-        "comments": 0,
-        "views": 116
-      }
-    }
-  ],
+  "posts_total": null,
+  "top_posts": [],
   "bottom_posts": [],
   "unavailable_metrics": {},
   "health": {
-    "last_run_at": "2026-10-12T01:03:37+00:00",
+    "last_run_at": "2026-10-18T23:57:22+00:00",
     "last_success_at": "2026-10-12T01:03:37+00:00",
-    "meta_api_fetch": "ok",
-    "token_check": "ok",
+    "meta_api_fetch": "error",
+    "token_check": "not_run",
     "token_refresh": "not_required",
     "analytics_write": "ok",
-    "has_error": false,
-    "consecutive_failures": 0,
+    "has_error": true,
+    "consecutive_failures": 1,
     "token_expires_label": "never",
     "data_access_expires_label": "2026-12-03T12:09:05+00:00",
     "data_access_days_left": 52,
