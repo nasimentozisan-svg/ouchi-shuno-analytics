@@ -1,23 +1,17 @@
 {
   "account_id": "ouchi-shuno",
-  "last_run_at": "2026-10-18T23:57:22+00:00",
-  "last_success_at": "2026-10-12T01:03:37+00:00",
-  "meta_api_fetch": "error",
-  "token_check": "not_run",
+  "last_run_at": "2026-10-25T23:53:21+00:00",
+  "last_success_at": "2026-10-25T23:53:21+00:00",
+  "meta_api_fetch": "ok",
+  "token_check": "ok",
   "token_refresh": "not_required",
   "analytics_write": "ok",
-  "has_error": true,
-  "error": {
-    "stage": "debug_token",
-    "http_status": 400,
-    "code": 190,
-    "subcode": 459,
-    "message": "You cannot access the app till you log in to www.facebook.com and follow the instructions given."
-  },
-  "consecutive_failures": 1,
+  "has_error": false,
+  "error": null,
+  "consecutive_failures": 0,
   "token_expires_label": "never",
-  "media_returned": null,
+  "media_returned": 1,
   "data_access_expires_label": "2026-12-03T12:09:05+00:00",
-  "data_access_days_left": 52,
+  "data_access_days_left": 38,
   "reauth_needed_soon": false
 }
