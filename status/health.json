@@ -1,6 +1,6 @@
 {
   "account_id": "ouchi-shuno",
-  "last_run_at": "2026-11-02T01:19:21+00:00",
+  "last_run_at": "2026-11-09T01:29:02+00:00",
   "last_success_at": "2026-10-25T23:53:21+00:00",
   "meta_api_fetch": "error",
   "token_check": "not_run",
@@ -14,7 +14,7 @@
     "subcode": 460,
     "message": "Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons."
   },
-  "consecutive_failures": 1,
+  "consecutive_failures": 2,
   "token_expires_label": "never",
   "media_returned": null,
   "data_access_expires_label": "2026-12-03T12:09:05+00:00",
